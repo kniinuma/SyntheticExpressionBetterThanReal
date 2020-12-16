@@ -1,5 +1,5 @@
 [[Paper]](http://arxiv.org/abs/2010.10979)
-[[Video]](https://github.com/kniinuma/SyntheticExpressionBetterThanReal/blob/gh-pages/Koichiro_WACV21_small.mp4?raw=true)
+[[Video]](https://github.com/kniinuma/SyntheticExpressionBetterThanReal/blob/gh-pages/0141_video.mp4?raw=true)
 
 # Synthetic Expressions are Better Than Real for Learning to Detect Facial Actions
 
